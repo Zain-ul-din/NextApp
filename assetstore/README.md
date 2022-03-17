@@ -36,4 +36,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Dependencies
 
-``` npm i firebase ```
+
+
+``` # install firebase
+ npm i firebase 
+```
+
+``` firebase hooks 
+npm i react-firebase-hooks 
+```
